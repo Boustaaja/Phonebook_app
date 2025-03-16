@@ -1,0 +1,1 @@
+Tehtävässä on puhelinluettelo sovellus, joka koostuu serveristä ja clientistä. Lisäsimme yhdessä toiminnan, jossa puhelinluetteloon voidaan lisätä ja poistaa tietoja. Harjoituksen tehtävänä on täydentää toteutusta lisäämällä siihen muokkaus toiminto.
